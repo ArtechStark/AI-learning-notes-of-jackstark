@@ -1,4 +1,4 @@
-# 线性回归
-# 逻辑回归
-# softmax回归
-# ARIMA
+- 线性回归
+- 逻辑回归
+- softmax回归
+- ARIMA
